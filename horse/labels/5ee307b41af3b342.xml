@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>5ee307b41af3b342.jpg</filename>
+  <path>horse/images/5ee307b41af3b342.jpg</path>
+  <source>
+    <database>OpenImages</database>
+  </source>
+  <size>
+    <width>680</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>horse</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>163</xmin>
+      <xmax>498</xmax>
+      <ymin>88</ymin>
+      <ymax>928</ymax>
+    </bndbox>
+  </object>
+</annotation>
