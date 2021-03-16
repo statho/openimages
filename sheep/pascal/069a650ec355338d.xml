@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>069a650ec355338d.jpg</filename>
+  <path>sheep/images/069a650ec355338d.jpg</path>
+  <source>
+    <database>OpenImages</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>687</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sheep</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>19</xmin>
+      <xmax>82</xmax>
+      <ymin>312</ymin>
+      <ymax>381</ymax>
+    </bndbox>
+  </object>
+</annotation>
